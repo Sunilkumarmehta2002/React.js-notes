@@ -69,10 +69,10 @@
 
 // 6
 // Spread operator
-// arr = [66,33,55,88]
-// console.log(Math.min(...arr))
-// console.log(arr)
-// console.log(...arr)
+arr = [66,33,55,88]
+console.log(Math.min(...arr))
+console.log(arr)
+console.log(...arr)
 
 
 // 7
